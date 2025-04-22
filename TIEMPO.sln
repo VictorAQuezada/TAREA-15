@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIEMPO.Android", "TIEMPO.Android\TIEMPO.Android.csproj", "{F7CEAB4C-0A9F-4026-8963-0C7AB5C3C4A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIEMPO.iOS", "TIEMPO.iOS\TIEMPO.iOS.csproj", "{F4471D9F-071E-4EEC-AF19-36B8E3F3D74D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIEMPO", "TIEMPO\TIEMPO.csproj", "{836DC431-CF60-4860-9EBA-A8B6E20AA0E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7CEAB4C-0A9F-4026-8963-0C7AB5C3C4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CEAB4C-0A9F-4026-8963-0C7AB5C3C4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CEAB4C-0A9F-4026-8963-0C7AB5C3C4A2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F7CEAB4C-0A9F-4026-8963-0C7AB5C3C4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CEAB4C-0A9F-4026-8963-0C7AB5C3C4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7CEAB4C-0A9F-4026-8963-0C7AB5C3C4A2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F4471D9F-071E-4EEC-AF19-36B8E3F3D74D}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{F4471D9F-071E-4EEC-AF19-36B8E3F3D74D}.Debug|Any CPU.Build.0 = Debug|iPhone
+		{F4471D9F-071E-4EEC-AF19-36B8E3F3D74D}.Debug|Any CPU.Deploy.0 = Debug|iPhone
+		{F4471D9F-071E-4EEC-AF19-36B8E3F3D74D}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{F4471D9F-071E-4EEC-AF19-36B8E3F3D74D}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{F4471D9F-071E-4EEC-AF19-36B8E3F3D74D}.Release|Any CPU.Deploy.0 = Release|iPhoneSimulator
+		{836DC431-CF60-4860-9EBA-A8B6E20AA0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836DC431-CF60-4860-9EBA-A8B6E20AA0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836DC431-CF60-4860-9EBA-A8B6E20AA0E2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{836DC431-CF60-4860-9EBA-A8B6E20AA0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836DC431-CF60-4860-9EBA-A8B6E20AA0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836DC431-CF60-4860-9EBA-A8B6E20AA0E2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

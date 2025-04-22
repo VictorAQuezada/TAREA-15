@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App45.FavoritesPage"
+             Title="Ciudades Favoritas"
+             BackgroundColor="#ECF0F1">
+
+    <StackLayout Padding="20">
+        <ListView x:Name="favoritesListView"
+                  ItemSelected="FavoritesListView_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10">
+                            <Label Text="{Binding}" FontSize="Medium" TextColor="#34495E"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Label x:Name="emptyFavoritesLabel"
+               Text="No has agregado ninguna ciudad a tus favoritos."
+               FontSize="Small"
+               TextColor="Gray"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               IsVisible="False"/>
+    </StackLayout>
+
+</ContentPage>

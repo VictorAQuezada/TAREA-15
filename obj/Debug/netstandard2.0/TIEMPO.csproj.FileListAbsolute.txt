@@ -1,0 +1,16 @@
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\obj\Debug\netstandard2.0\TIEMPO.csproj.AssemblyReference.cache
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\obj\Debug\netstandard2.0\TIEMPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\obj\Debug\netstandard2.0\TIEMPO.AssemblyInfoInputs.cache
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\obj\Debug\netstandard2.0\TIEMPO.AssemblyInfo.cs
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\obj\Debug\netstandard2.0\TIEMPO.csproj.CoreCompileInputs.cache
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\bin\Debug\netstandard2.0\TIEMPO.deps.json
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\bin\Debug\netstandard2.0\TIEMPO.dll
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\bin\Debug\netstandard2.0\ref\TIEMPO.dll
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\bin\Debug\netstandard2.0\TIEMPO.pdb
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\obj\Debug\netstandard2.0\TIEMPO.dll
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\obj\Debug\netstandard2.0\refint\TIEMPO.dll
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\obj\Debug\netstandard2.0\TIEMPO.pdb
+C:\Users\Shint\Desktop\APPS\TIEMPO\TIEMPO\obj\Debug\netstandard2.0\FavoritesPage.xaml.g.cs
